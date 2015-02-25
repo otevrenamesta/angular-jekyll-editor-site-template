@@ -1,37 +1,24 @@
 
-<li>
-  <a href="/urad"><i class="fa fa-phone"></i> Kontakty</a>
-</li>
+### <i class="fa fa-phone"></i> [Kontakty](/urad)
+### <i class="fa fa-clock-o"></i> [Uřední hodiny](/urad)
+### <i class="fa fa-list-alt"></i> [Úřední deska](/urednideska)
 
-<li>
-  <a href="/urad"><i class="fa fa-clock-o"></i> Uřední hodiny</a>
-</li>
+### <i class="fa fa-users"></i> [Kultura](/kultura)
 
-<li>
-  <a href="/urednideska"><i class="fa fa-list-alt"></i> Úřední deska</a>
-</li>
+To nej z dane kategorie.
 
-<li>
-  <h3><a href="/kultura"><i class="fa fa-users"></i> Kultura</a></h3>
-  To nej z dane kategorie.
-</li>
+### <i class="fa fa-graduation-cap"></i> [Vzdělávání](/vzdelavani)
 
-<li>
-  <h3><a href="/vzdelavani"><i class="fa fa-graduation-cap"></i> Vzdělávání</a></h3>
-  To nej z dane kategorie.
-</li>
+To nej z dane kategorie.
 
-<li>
-  <h3><a href="/policie"><i class="fa fa-taxi"></i> Policie</a></h3>
-  To nej z dane kategorie.
-</li>
+### <i class="fa fa-taxi"></i> [Policie](/policie)
 
-<li>
-  <h3><a href="/sport"><i class="fa fa-futbol-o"></i> Sport</a></h3>
-  To nej z dane kategorie.
-</li>
+To nej z dane kategorie.
 
-<li>
-  <h3><a href="/turismus"><i class="fa fa-bed"></i> Turismus</a></h3>
-  To nej z dane kategorie.
-</li>
+### <i class="fa fa-futbol-o"></i> [Sport](/sport)
+
+To nej z dane kategorie.
+
+### <i class="fa fa-bed"></i> [Turismus](/turismus)
+
+To nej z dane kategorie.

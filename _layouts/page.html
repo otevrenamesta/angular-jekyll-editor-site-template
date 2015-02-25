@@ -17,6 +17,9 @@ layout: default
   </div>
 
   <div class="small-12 large-4 columns {{ page.style }}">
+    {% capture myInclude %}{% include quicknav.md %}{% endcapture %}
+    {{ myInclude | markdownify }}
+    
     {% include related.html %}
   </div>
 
