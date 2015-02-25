@@ -2,15 +2,33 @@
 layout: default
 ---
 
-<div class="row">
 
-  <div class="small-12 columns {{ page.style }}">
+<section class="hero">
+  {% include header.html %}
+  <div class="row">
+    <div class="large-6 columns about-box">
+      <div class="black-box">
+        {% capture myInclude %}{% include hero.md %}{% endcapture %}
+        {{ myInclude | markdownify }}
+      </div>
+    </div>
+  </div>
+</section>
 
-    <section role="main">
-      <h1>{{page.title}}</h1>
+
+<section>
+  <div class="row">
+
+    <div class="small-12 large-3 columns">
+      <ul class="small-block-grid-1">
+        {% capture myInclude %}{% include quicknav.md %}{% endcapture %}
+        {{ myInclude | markdownify }}
+      </ul>
+    </div>
+
+    <div class="small-12 large-9 columns about-content">
       {{content}}
-    </section>
+    </div>
 
   </div>
-
-</div>
+</section>

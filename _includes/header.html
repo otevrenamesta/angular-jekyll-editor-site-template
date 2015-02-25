@@ -1,17 +1,16 @@
-<header id="header" class="contain-to-grid">
-  <nav class="top-bar" data-topbar role="navigation">
-    <ul class="title-area">
-      <li class="name">
-        <h1><a href="/">{{ site.title }}</a></h1>
-      </li>
-      <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
-    </ul>
-
-    <section class="top-bar-section">
-      <!-- Right Nav Section -->
-      <ul class="right">
-        {% include nav.html %}
-      </ul>
-    </section>
-  </nav>
-</header>
+<div class="row">
+  <div class="large-12 columns">
+    <div class="main-wrapper">
+      <h1>{{ site.title }}</h1>
+      <h3>Oficiální stránky</h3>
+      <hr>
+      <div class="row">
+        <div class="large-6 columns large-centered">
+          <ul class="button-group even-4">
+            {% include nav.html %}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
