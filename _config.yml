@@ -1,0 +1,6 @@
+title: Praha Kolovraty
+baseurl:
+permalink: pretty
+markdown: rdiscount
+gems:
+  - jekyll-sitemap
