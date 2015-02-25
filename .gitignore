@@ -1,0 +1,6 @@
+_site/*
+.DS_Store
+npm-debug.log
+
+_assets/node_modules
+_assets/bower_components
