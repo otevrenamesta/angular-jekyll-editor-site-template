@@ -2,5 +2,7 @@ title: Praha Kolovraty
 baseurl:
 permalink: pretty
 markdown: rdiscount
+facebookurl: https://www.facebook.com/otevrenamesta
+twitterurl: https://www.facebook.com/otevrenamesta
 gems:
   - jekyll-sitemap
