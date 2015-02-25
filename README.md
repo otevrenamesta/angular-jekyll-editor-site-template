@@ -2,6 +2,25 @@
 
 Template site for [angular-jekyll-editor](https://github.com/pirati-cz/angular-jekyll-editor).
 
+## How to start
+
+- create account (XXX) on [github](hhtp://www.githbug.com)
+- clone this repo and choose branch (B)
+- make repository (GR) on github named XXX.gihub.io
+- pull choosen branch (B) into (GR)
+
+Example:
+
+```
+git clone https://bitbucket.org/vencax/angular-jekyll-editor-template/
+export B=banner-theme
+cd angular-jekyll-editor-template
+git pull
+git remote add ghtmp https://github.com/kolovraty/kolovraty.github.io.git
+git checkout $B
+git push ghtmp $B:master
+```
+
 ## Installation
 
 To hack the web on your computer, you need [ruby](https://www.ruby-lang.org/en/) and gem.
